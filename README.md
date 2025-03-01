@@ -1,4 +1,4 @@
-# 1671 QR Code Scanner
+# FRC 1671 QR Code Scanner
 
 ### Description
 Counterpart Application to ScoutingKindles, written in Python to scan, decode, and upload data from QR codes to the scout-api for further analysis of scout data.
@@ -51,19 +51,5 @@ The application should now appear in the application menu. Just click on it to r
 - Cv2
 - Requests
 
-On Windows to quickly install dependencies:
-
-In a terminal, on a device with pyhton3 and pip installed:
-`pip3 install -r requirements.txt`
-
-### Roadmap
-- ~Refactor to PyQt6.~
-- ~FPS color inversion overhaul.~
-- Add back removed shortcuts.
-- Restore previously removed functionalities.
-- Replace terminal with an entry table.
-- Refactor to Asynchronous code.
-- Make widgets/labels/font dynamically scale with display size.
-- Improve Logging and error handling functionality.
-- Remove boilerplate code in api requests.
-- Bluetooth Beta.
+### Windows Installation
+Donwload and run the .exe from the Releases.
