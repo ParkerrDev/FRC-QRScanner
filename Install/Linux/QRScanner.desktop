@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=2.0.1
+Type=Application
+Name=1671 QR Code Scanner
+Comment=Collect data for FRC Scouting.
+Exec=python3 /usr/local/1671-QR-Code-Scanner/main.py &
+Terminal=true
+Icon=1671-icon.png
+Categories=Utility
